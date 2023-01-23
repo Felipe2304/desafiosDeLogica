@@ -18,8 +18,6 @@ function diagonalDifference(arr) {
     result = Math.abs(result);
   }
 
-  console.log(result);
-
   return result;
 }
 
